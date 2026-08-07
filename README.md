@@ -82,18 +82,6 @@ Nathan 7.8 Aprovado
 
 ---
 
-# Como Executar
-
-1. Instale o Python
-2. Salve o código em um arquivo `.py`
-3. Execute no terminal:
-
-```bash
-python nome_do_arquivo.py
-```
-
----
-
 # Tecnologias Utilizadas
 
 - Python 3
